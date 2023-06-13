@@ -1,6 +1,4 @@
-#UNIcompiler Internship Task-3
-
-#In this task we have to make a mp3 music player through
+#In this project I have made a mp3 music player through
 # which users can play their MP3 files and other digital 
 # audio files without having to purchase a physical MP3 Player.
 
